@@ -1,11 +1,12 @@
-# Sample Snack app
+Trang chủ (Shop): Hiển thị các chương trình ưu đãi độc quyền và các mặt hàng bán chạy nhất.
+<img width="870" height="1883" alt="image" src="https://github.com/user-attachments/assets/80a6f57d-20f4-4b03-a00a-ea0765634482" />
+<img width="870" height="1883" alt="image" src="https://github.com/user-attachments/assets/82d54f16-ee5d-42a7-94b6-ec3fa34d9130" />
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Khám phá (Explore): Hệ thống danh mục sản phẩm được phân loại trực quan theo màu sắc và hình ảnh đặc trưng.
+<img width="870" height="1883" alt="image" src="https://github.com/user-attachments/assets/73e27eb6-3be3-41e4-a441-055e81fd6ad4" />
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Danh sách sản phẩm (Beverages): Giao diện lưới chuyên biệt cho từng nhóm ngành hàng, hỗ trợ xem giá và thêm nhanh vào giỏ hàng.
+<img width="870" height="1883" alt="image" src="https://github.com/user-attachments/assets/1a54b3c0-30f1-4828-a2c9-c12e4987e738" />
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Điều hướng (Navigation): Hệ thống thanh menu phía dưới (Bottom Tab) giúp chuyển đổi nhanh chóng giữa các tác vụ chính của người dùng.
+<img width="870" height="1883" alt="image" src="https://github.com/user-attachments/assets/b5830dfe-aa96-4fb5-b68b-cedecb1df6a6" />
